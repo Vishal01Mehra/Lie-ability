@@ -1,7 +1,9 @@
 # Lie-ability
 Lie detector
-Learn how to make your own Lie Detector and have fun with your friends
-![](https://github.com/Vishal01Mehra/Lie-ability/blob/main/Resources/1f925.gif)
+## Learn how to make your own Lie Detector and have fun with your friends
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Vishal01Mehra/Lie-ability/blob/main/Resources/1f925.gif">
+</p>
 
 ## Features
 
