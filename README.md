@@ -18,7 +18,7 @@
 ![](https://github.com/Vishal01Mehra/Lie-ability/blob/main/Resources/plotter.gif)
 
 ## License
-This product is open source!
+This project is Open Source!
 Please review the LICENSE.md [MIT](https://choosealicense.com/licenses/mit/) file for license information.
 Please use, reuse, and modify these files as you see fit. Please maintain attribution to iTinker and release under the same license.
 
